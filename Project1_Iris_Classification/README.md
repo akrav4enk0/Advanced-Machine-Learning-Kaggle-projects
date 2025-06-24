@@ -77,8 +77,6 @@ Launch the notebook:
 jupyter notebook notebooks/iris_classification.ipynb
 
 
-Author
-
 Anna Kravchenko
 Master’s Student @ ETH Zurich
 |Interested in making machine learning education accessible and reproducible.
