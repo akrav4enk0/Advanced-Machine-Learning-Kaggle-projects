@@ -31,17 +31,17 @@ The dataset includes numeric features for flower dimensions and a label indicati
 
 ## 🔍 Project Workflow
 
-### 1. 📊 Data Preprocessing
+### 1. Data Preprocessing
 - Checked and confirmed no missing values in train and test sets
 - Ensured consistent feature format
 - Encoded labels using `LabelEncoder` for classification
 
-### 2. 📈 Exploratory Data Analysis
+### 2. Exploratory Data Analysis
 - Visualized class distribution
 - Reviewed pairplots and feature relationships
 - Verified class balance
 
-### 3. ⚙️ Model Training
+### 3.  Model Training
 Trained several classification models and evaluated their performance:
 
 | Model               | Description                            |
@@ -77,7 +77,7 @@ Launch the notebook:
 jupyter notebook notebooks/iris_classification.ipynb
 
 
-✍️ Author
+Author
 Anna Kravchenko
 Master’s Student @ ETH Zurich
 |Interested in making machine learning education accessible and reproducible.
