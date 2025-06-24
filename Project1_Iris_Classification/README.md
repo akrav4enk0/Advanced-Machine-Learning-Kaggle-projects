@@ -51,11 +51,6 @@ Trained several classification models and evaluated their performance:
 | Random Forest      | High-performing ensemble model          |
 | Naive Bayes        | Probabilistic classifier (used in final submission) |
 
-Final model predictions were exported for submission using:
-
-```python
-submission_df_nb.to_csv('submission_7.csv', index=False)
-
 ---
 
  🎓 Educational Goals
@@ -85,7 +80,7 @@ jupyter notebook notebooks/iris_classification.ipynb
 ✍️ Author
 Anna Kravchenko
 Master’s Student @ ETH Zurich
-💡 Interested in making machine learning education accessible and reproducible.
+|Interested in making machine learning education accessible and reproducible.
 
 📄 License
 MIT License — free to use, modify, and distribute with attribution.
