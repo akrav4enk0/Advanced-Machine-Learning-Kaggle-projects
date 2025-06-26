@@ -15,7 +15,8 @@ This repository contains three machine learning projects completed as part of th
 - Model performance evaluation and visualization
 - Final submission using the best-performing model based on cross-validation accuracy
 
-👉 [View notebook](Project1_Iris_Classification/iris_classifier.ipynb)
+👉 [View README](Project1_Iris_Classification/README.md)
+👉 [View notebook](Project1_Iris_Classification/iris_classification.ipynb)
 
 ---
 
@@ -28,7 +29,8 @@ This repository contains three machine learning projects completed as part of th
 - Stacking ensemble of top models
 - Best score achieved with a tuned Gradient Boosting Regressor model
 
-👉 [View notebook](project2_brain_age_prediction/brain_age_predictor.ipynb)
+👉 [View README](project2_brain_age_prediction/README.md)
+👉 [View notebook](project2_brain_age_prediction/notebook.ipynb)
 
 ---
 
@@ -41,6 +43,7 @@ This repository contains three machine learning projects completed as part of th
 - Model benchmarking: SVC, MLP, Random Forest, GBC, Logistic Regression
 - Final model: Gradient Boosting Classifier fine-tuned with a custom function, achieving the best private leaderboard score on test data
 
+👉 [View README](project3_heart_rhythm_classification/README.md)
 👉 [View notebook](project3_heart_rhythm_classification/ecg_classifier.ipynb)
 
 ---
