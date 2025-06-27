@@ -1,6 +1,6 @@
 # 🫀 ECG Heart Rhythm Classification
 
-This project addresses the task of classifying ECG signals into distinct heart rhythm classes using a comprehensive and reproducible machine learning pipeline. The work was conducted independently as part of the **Advanced Machine Learning** course at **ETH Zurich**, and submitted as **Project 3** within a Kaggle-style competition format.
+This project addresses the task of classifying ECG signals into distinct heart rhythm classes using a comprehensive and reproducible machine learning pipeline. The work was conducted independently as part of the **Advanced Machine Learning** course at **ETH Zurich**, and submitted within a Kaggle competition.
 
 > 📘 This is a complete, educational walkthrough designed for students and practitioners interested in reproducible machine learning workflows.
 
