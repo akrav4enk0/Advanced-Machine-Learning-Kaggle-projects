@@ -16,7 +16,7 @@ The objective of this project was to develop an accurate classification model fo
 
 A classical machine learning workflow was adopted with a strong emphasis on robust feature engineering and thorough model evaluation.
 
-### 1. 🔍 Feature Extraction
+### 1. Feature Extraction
 
 An extensive set of descriptive statistical and signal-processing-based features was engineered from the raw ECG signals, including:
 
@@ -27,7 +27,7 @@ An extensive set of descriptive statistical and signal-processing-based features
 
 These features were computed on raw ECG data and, when appropriate, on signal segments surrounding detected QRS peaks to better capture physiologically relevant characteristics.
 
-### 2. ⚙️ Preprocessing Pipeline
+### 2. Preprocessing Pipeline
 
 To ensure the models performed effectively and reliably, the following preprocessing steps were applied:
 
